@@ -79,7 +79,7 @@ void main()
     root->right = newNode(3); 
     root->left->left  = newNode(4); 
     root->left->right = newNode(5); 
-    printf("Level Order traversal of binary tree is \n"); 
+    printf("Level Order traversal of binary tree is: \n"); 
     printLevelOrder(root); 
     getch(); 
 }
