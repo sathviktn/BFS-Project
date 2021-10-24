@@ -8,4 +8,4 @@ In a BFS, you first explore all the nodes one step away, then all the nodes two 
 
 We start traversing from tree root (or some arbitrary node of a graph, sometimes referred to as a 'search key'), and traverse the tree layer-wise, thus exploring the neighbor nodes (nodes which are directly connected to source node). We move towards the next-level neighbor nodes.
 
-https://github.com/SathvikTn/BFS-Project/blob/master/breadth_first_search_first_level.png
+![alt text](https://github.com/SathvikTn/BFS-Project/blob/master/breadth_first_search_first_level.png)
